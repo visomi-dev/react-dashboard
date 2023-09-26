@@ -1,0 +1,32 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[xml]": {
+    "editor.defaultFormatter": "redhat.vscode-xml"
+  },
+  "[svg]": {
+    "editor.defaultFormatter": "jock.svg"
+  },
+  "[yaml]": {
+    "editor.defaultFormatter": "redhat.vscode-yaml"
+  },
+  "tailwindCSS.experimental.classRegex": [
+    "/\\*\\s*tw\\s*\\*/\\s*'([^']*)'",
+    "/\\*\\s*tw\\s*\\*/\\s*\"([^\"]*)\""
+  ],
+  "cSpell.language": "en,es,en-US,en-GB,es-ES,es-MX",
+  "cSpell.words": [
+    "branchlint",
+    "clsx",
+    "commitlint",
+    "heroicons",
+    "inputmode",
+    "maxlength",
+    "scraper",
+    "tailwindcss",
+    "zustand"
+  ]
+}

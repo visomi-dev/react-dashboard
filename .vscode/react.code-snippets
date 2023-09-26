@@ -1,0 +1,18 @@
+{
+  "React Functional Component": {
+    "prefix": "rfc",
+    "body": [
+      "",
+      "export function ${1:name}(props) {",
+      "  return (",
+      "    <div>",
+      "      $2",
+      "    </div>",
+      "  )",
+      "};",
+      "",
+      ""
+    ],
+    "description": "React Functional Component"
+  }
+}
